@@ -133,10 +133,12 @@ if __name__ == '__main__':
 
 ## OUTPUT
 ### client.py 
-![alt text](image.png)
+<img width="644" height="185" alt="image" src="https://github.com/user-attachments/assets/2f99feb0-5d15-4f63-8605-118c43c64ec8" />
+
 
 ### server.py
-![alt text](image-1.png)
+<img width="657" height="225" alt="image" src="https://github.com/user-attachments/assets/5394cdc0-3b66-42e2-a505-ae3131521240" />
+
 ## Result:
 
 Thus the study on Client Server Chat Applications has been performed
